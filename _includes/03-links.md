@@ -1,2 +1,2 @@
 
-https://github.com/AlanThomas10
+[Github](https://github.com/AlanThomas10)
